@@ -10,3 +10,6 @@ hero:
     - theme: brand
       text: 关于Archlinux
       link: /Archlinux/Btrfs休眠配置
+    - theme: 赤石科技
+      text: 赤石科技（awesome-windows-on-linux仓库）
+      link: https://github.com/windowix/awesome-windows-on-linux
