@@ -5,7 +5,7 @@ import { set_sidebar } from "./utils/auto-gen-sidebar.mjs";	// 改成自己的�
 export default defineConfig({
   srcDir: "docs",
   
-  base: "/Starlight-Website/",
+  base: "/",
   title: "Starlight",
   description: "A VitePress Site",
   themeConfig: {
