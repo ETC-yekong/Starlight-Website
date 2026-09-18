@@ -13,3 +13,6 @@ hero:
     - theme: alt
       text: 赤石科技（awesome-windows-on-linux仓库）
       link: https://github.com/windowix/awesome-windows-on-linux
+    - theme: alt
+      text: 内核开发
+      link: /内核开发/内核开发方向（完整保留润色版）
