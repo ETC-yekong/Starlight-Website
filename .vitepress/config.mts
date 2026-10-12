@@ -22,6 +22,7 @@ export default defineConfig({
     //文章三边栏左边目录的自动配置
     sidebar: {
       "/Archlinux/": set_sidebar("docs/Archlinux"),
+      "/内核开发": set_sidebar("docs/内核开发"),
     },
 
     //网站上方右边社交媒体跳转
