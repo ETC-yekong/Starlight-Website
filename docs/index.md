@@ -8,8 +8,8 @@ hero:
   tagline: （其实都是碎碎念，没什么有价值的）
   actions:
     - theme: brand
-      text: 关于Archlinux
-      link: /Archlinux/Btrfs休眠配置
+      text: 关于Linux
+      link: /Linux/Archlinux/Btrfs休眠配置
     - theme: alt
       text: 赤石科技（awesome-windows-on-linux仓库）
       link: https://github.com/windowix/awesome-windows-on-linux
